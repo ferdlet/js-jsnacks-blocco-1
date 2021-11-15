@@ -11,5 +11,5 @@ if (parola1.length == parola2.length) {
 } else if (parola2.length < parola1.length) {
     console.log(parola1);
 } else {
-      console.log(parola2);
+     console.log(parola2);
 }
